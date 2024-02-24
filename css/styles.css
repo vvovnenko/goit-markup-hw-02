@@ -28,7 +28,7 @@ button {
     cursor: pointer;
 }
 
-.list {
+ul, li {
     list-style: none;
 }
 
